@@ -7,7 +7,6 @@
       <Abstract>A sample style that just prints out a green line</Abstract>
       <FeatureTypeStyle>
         <Rule>
-          <MaxScaleDenominator>400000</MaxScaleDenominator>
           <Name>topp:planet_osm_polygon</Name>
           <Title>Green Line</Title>
           <Abstract>A green line with a 2 pixel width</Abstract>
@@ -17,6 +16,7 @@
               <ogc:Literal>park</ogc:Literal>
             </ogc:PropertyIsEqualTo>
           </ogc:Filter>
+          <MaxScaleDenominator>400000</MaxScaleDenominator>
           <TextSymbolizer>
             <Label>
               <ogc:PropertyName>name</ogc:PropertyName>
@@ -47,9 +47,9 @@
                 <CssParameter name="fill-opacity">1</CssParameter>
               </Fill>
             </Halo>
-            <Fill>
+            <!-- <Fill>
               <CssParameter name="fill">#32402d</CssParameter>
-            </Fill>
+            </Fill> -->
             <Fill>
               <CssParameter name="fill">#6b5949</CssParameter>
             </Fill>
