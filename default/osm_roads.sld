@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <StyledLayerDescriptor xmlns="http://www.opengis.net/sld" xmlns:ogc="http://www.opengis.net/ogc" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0.0" xsi:schemaLocation="http://www.opengis.net/sld StyledLayerDescriptor.xsd">
   <NamedLayer>
-    <Name>bikemap:planet_osm_line</Name>
+    <Name>topp:planet_osm_line</Name>
     <UserStyle>
       <Title>A boring default style</Title>
       <Abstract>A sample style that just prints out a green line</Abstract>
@@ -9,7 +9,7 @@
       <!-- zoom level a -->
       <FeatureTypeStyle>
         <Rule>
-          <Name>bikemap:planet_osm_line</Name>
+          <Name>topp:planet_osm_line</Name>
           <Title>freeways- outer zoom level</Title>
           <Abstract>freeways style openstreetmap data</Abstract>
           <ogc:Filter>
@@ -30,7 +30,7 @@
       </FeatureTypeStyle>
       <FeatureTypeStyle>
         <Rule>
-          <Name>bikemap:planet_osm_line</Name>
+          <Name>topp:planet_osm_line</Name>
           <Title>freeways- outer zoom level</Title>
           <Abstract>freeways style openstreetmap data</Abstract>
           <ogc:Filter>
@@ -54,7 +54,7 @@
       <!-- start of zoom level b -->
       <FeatureTypeStyle>
         <Rule>
-          <Name>bikemap:planet_osm_line</Name>
+          <Name>topp:planet_osm_line</Name>
           <Title>freeways- outer zoom level</Title>
           <Abstract>freeways style openstreetmap data</Abstract>
           <ogc:Filter>
@@ -75,7 +75,7 @@
       </FeatureTypeStyle>
       <FeatureTypeStyle>
         <Rule>
-          <Name>bikemap:planet_osm_line</Name>
+          <Name>topp:planet_osm_line</Name>
           <Title>freeways- outer zoom level</Title>
           <Abstract>freeways style openstreetmap data</Abstract>
           <ogc:Filter>
@@ -100,7 +100,7 @@
       <!-- start of railroads zoom level a-->
       <FeatureTypeStyle>
         <Rule>
-          <Name>bikemap:planet_osm_line</Name>
+          <Name>topp:planet_osm_line</Name>
           <Title>freeways- outer zoom level</Title>
           <Abstract>freeways style openstreetmap data</Abstract>
           <ogc:Filter>
@@ -150,7 +150,7 @@
       <!--zoom level b, railroads-->
       <FeatureTypeStyle>
         <Rule>
-          <Name>bikemap:planet_osm_line</Name>
+          <Name>topp:planet_osm_line</Name>
           <Title>freeways- outer zoom level</Title>
           <Abstract>freeways style openstreetmap data</Abstract>
           <ogc:Filter>
@@ -199,7 +199,7 @@
       </FeatureTypeStyle>
       <FeatureTypeStyle>
         <Rule>
-          <Name>bikemap:planet_osm_line</Name>
+          <Name>topp:planet_osm_line</Name>
           <Title>freeways- outer zoom level</Title>
           <Abstract>freeways style openstreetmap data</Abstract>
           <ogc:Filter>
@@ -250,7 +250,7 @@
       <!-- start of zoom level 3 -->
       <FeatureTypeStyle>
         <Rule>
-          <Name>bikemap:planet_osm_line</Name>
+          <Name>topp:planet_osm_line</Name>
           <Title>freeways- outer zoom level</Title>
           <Abstract>freeways style openstreetmap data</Abstract>
           <ogc:Filter>
@@ -311,7 +311,7 @@
       </FeatureTypeStyle>
       <FeatureTypeStyle>
         <Rule>
-          <Name>bikemap:planet_osm_line</Name>
+          <Name>topp:planet_osm_line</Name>
           <Title>freeways- outer zoom level</Title>
           <Abstract>freeways style openstreetmap data</Abstract>
           <ogc:Filter>
@@ -369,7 +369,7 @@
       </FeatureTypeStyle>
       <FeatureTypeStyle>
         <Rule>
-          <Name>bikemap:planet_osm_line</Name>
+          <Name>topp:planet_osm_line</Name>
           <Title>freeways- outer zoom level</Title>
           <Abstract>freeways style openstreetmap data</Abstract>
           <ogc:Filter>
@@ -422,7 +422,7 @@
       <!-- outline for major roads at zoom level 3 -->
       <FeatureTypeStyle>
         <Rule>
-          <Name>bikemap:planet_osm_line</Name>
+          <Name>topp:planet_osm_line</Name>
           <Title>freeways- outer zoom level</Title>
           <Abstract>freeways style openstreetmap data</Abstract>
           <ogc:Filter>
@@ -451,7 +451,7 @@
       <!-- and fill for major roads at zoom level 3 -->
       <FeatureTypeStyle>
         <Rule>
-          <Name>bikemap:planet_osm_line</Name>
+          <Name>topp:planet_osm_line</Name>
           <Title>freeways- outer zoom level</Title>
           <Abstract>freeways style openstreetmap data</Abstract>
           <ogc:Filter>
@@ -510,7 +510,7 @@
       <!-- start of zoom level 4 -->
       <FeatureTypeStyle>
         <Rule>
-          <Name>bikemap:planet_osm_line</Name>
+          <Name>topp:planet_osm_line</Name>
           <Title>freeways- outer zoom level</Title>
           <Abstract>freeways style openstreetmap data</Abstract>
           <ogc:Filter>
@@ -571,7 +571,7 @@
       </FeatureTypeStyle>
       <FeatureTypeStyle>
         <Rule>
-          <Name>bikemap:planet_osm_line</Name>
+          <Name>topp:planet_osm_line</Name>
           <Title>freeways- outer zoom level</Title>
           <Abstract>freeways style openstreetmap data</Abstract>
           <ogc:Filter>
@@ -629,7 +629,7 @@
       </FeatureTypeStyle>
       <FeatureTypeStyle>
         <Rule>
-          <Name>bikemap:planet_osm_line</Name>
+          <Name>topp:planet_osm_line</Name>
           <Title>freeways- outer zoom level</Title>
           <Abstract>freeways style openstreetmap data</Abstract>
           <ogc:Filter>
@@ -682,7 +682,7 @@
       <!-- outline for major roads at zoom level 4 -->
       <FeatureTypeStyle>
         <Rule>
-          <Name>bikemap:planet_osm_line</Name>
+          <Name>topp:planet_osm_line</Name>
           <Title>freeways- outer zoom level</Title>
           <Abstract>freeways style openstreetmap data</Abstract>
           <ogc:Filter>
@@ -711,7 +711,7 @@
       <!-- and fill for major roads at zoom level 4 -->
       <FeatureTypeStyle>
         <Rule>
-          <Name>bikemap:planet_osm_line</Name>
+          <Name>topp:planet_osm_line</Name>
           <Title>freeways- outer zoom level</Title>
           <Abstract>freeways style openstreetmap data</Abstract>
           <ogc:Filter>
@@ -770,7 +770,7 @@
       <!-- start of zoom level 5 -->
       <FeatureTypeStyle>
         <Rule>
-          <Name>bikemap:planet_osm_line</Name>
+          <Name>topp:planet_osm_line</Name>
           <Title>freeways- outer zoom level</Title>
           <Abstract>freeways style openstreetmap data</Abstract>
           <ogc:Filter>
@@ -830,7 +830,7 @@
       </FeatureTypeStyle>
       <FeatureTypeStyle>
         <Rule>
-          <Name>bikemap:planet_osm_line</Name>
+          <Name>topp:planet_osm_line</Name>
           <Title>freeways- outer zoom level</Title>
           <Abstract>freeways style openstreetmap data</Abstract>
           <ogc:Filter>
@@ -890,7 +890,7 @@
       </FeatureTypeStyle>
       <FeatureTypeStyle>
         <Rule>
-          <Name>bikemap:planet_osm_line</Name>
+          <Name>topp:planet_osm_line</Name>
           <Title>freeways- outer zoom level</Title>
           <Abstract>freeways style openstreetmap data</Abstract>
           <ogc:Filter>
@@ -946,7 +946,7 @@
       <!-- outline for major roads at zoom level 6 -->
       <FeatureTypeStyle>
         <Rule>
-          <Name>bikemap:planet_osm_line</Name>
+          <Name>topp:planet_osm_line</Name>
           <Title>freeways- outer zoom level</Title>
           <Abstract>freeways style openstreetmap data</Abstract>
           <ogc:Filter>
@@ -975,7 +975,7 @@
       <!-- and fill for major roads at zoom level 6 -->
       <FeatureTypeStyle>
         <Rule>
-          <Name>bikemap:planet_osm_line</Name>
+          <Name>topp:planet_osm_line</Name>
           <Title>freeways- outer zoom level</Title>
           <Abstract>freeways style openstreetmap data</Abstract>
           <ogc:Filter>
@@ -1038,7 +1038,7 @@
       <!-- start of zoom level 6 -->
       <FeatureTypeStyle>
         <Rule>
-          <Name>bikemap:planet_osm_line</Name>
+          <Name>topp:planet_osm_line</Name>
           <Title>freeways- outer zoom level</Title>
           <Abstract>freeways style openstreetmap data</Abstract>
           <ogc:Filter>
@@ -1066,7 +1066,7 @@
       </FeatureTypeStyle>
       <FeatureTypeStyle>
         <Rule>
-          <Name>bikemap:planet_osm_line</Name>
+          <Name>topp:planet_osm_line</Name>
           <Title>freeways- outer zoom level</Title>
           <Abstract>freeways style openstreetmap data</Abstract>
           <ogc:Filter>
@@ -1124,7 +1124,7 @@
       </FeatureTypeStyle>
       <FeatureTypeStyle>
         <Rule>
-          <Name>bikemap:planet_osm_line</Name>
+          <Name>topp:planet_osm_line</Name>
           <Title>freeways- outer zoom level</Title>
           <Abstract>freeways style openstreetmap data</Abstract>
           <ogc:Filter>
@@ -1177,7 +1177,7 @@
       <!-- outline for major roads at zoom level 6 -->
       <FeatureTypeStyle>
         <Rule>
-          <Name>bikemap:planet_osm_line</Name>
+          <Name>topp:planet_osm_line</Name>
           <Title>freeways- outer zoom level</Title>
           <Abstract>freeways style openstreetmap data</Abstract>
           <ogc:Filter>
@@ -1206,7 +1206,7 @@
       <!-- and fill for major roads at zoom level 6 -->
       <FeatureTypeStyle>
         <Rule>
-          <Name>bikemap:planet_osm_line</Name>
+          <Name>topp:planet_osm_line</Name>
           <Title>freeways- outer zoom level</Title>
           <Abstract>freeways style openstreetmap data</Abstract>
           <ogc:Filter>
@@ -1269,7 +1269,7 @@
       <!-- start of zoom level 7 -->
       <FeatureTypeStyle>
         <Rule>
-          <Name>bikemap:planet_osm_line</Name>
+          <Name>topp:planet_osm_line</Name>
           <Title>freeways- outer zoom level</Title>
           <Abstract>freeways style openstreetmap data</Abstract>
           <ogc:Filter>
@@ -1297,7 +1297,7 @@
       </FeatureTypeStyle>
       <FeatureTypeStyle>
         <Rule>
-          <Name>bikemap:planet_osm_line</Name>
+          <Name>topp:planet_osm_line</Name>
           <Title>freeways- outer zoom level</Title>
           <Abstract>freeways style openstreetmap data</Abstract>
           <ogc:Filter>
@@ -1325,7 +1325,7 @@
       </FeatureTypeStyle>
       <FeatureTypeStyle>
         <Rule>
-          <Name>bikemap:planet_osm_line</Name>
+          <Name>topp:planet_osm_line</Name>
           <Title>freeways- outer zoom level</Title>
           <Abstract>freeways style openstreetmap data</Abstract>
           <ogc:Filter>
@@ -1348,7 +1348,7 @@
       <!-- outline for major roads at zoom level 7 -->
       <FeatureTypeStyle>
         <Rule>
-          <Name>bikemap:planet_osm_line</Name>
+          <Name>topp:planet_osm_line</Name>
           <Title>freeways- outer zoom level</Title>
           <Abstract>freeways style openstreetmap data</Abstract>
           <ogc:Filter>
@@ -1377,7 +1377,7 @@
       <!-- and fill for major roads at zoom level 7 -->
       <FeatureTypeStyle>
         <Rule>
-          <Name>bikemap:planet_osm_line</Name>
+          <Name>topp:planet_osm_line</Name>
           <Title>freeways- outer zoom level</Title>
           <Abstract>freeways style openstreetmap data</Abstract>
           <ogc:Filter>
@@ -1439,7 +1439,7 @@
       <!-- minor roads for zoom level 8 -->
       <FeatureTypeStyle>
         <Rule>
-          <Name>bikemap:planet_osm_line</Name>
+          <Name>topp:planet_osm_line</Name>
           <Title>freeways- outer zoom level</Title>
           <Abstract>freeways style openstreetmap data</Abstract>
           <ogc:Filter>
@@ -1467,7 +1467,7 @@
       </FeatureTypeStyle>
       <FeatureTypeStyle>
         <Rule>
-          <Name>bikemap:planet_osm_line</Name>
+          <Name>topp:planet_osm_line</Name>
           <Title>freeways- outer zoom level</Title>
           <Abstract>freeways style openstreetmap data</Abstract>
           <ogc:Filter>
@@ -1490,7 +1490,7 @@
       <!-- outline for major roads at zoom level 8 -->
       <FeatureTypeStyle>
         <Rule>
-          <Name>bikemap:planet_osm_line</Name>
+          <Name>topp:planet_osm_line</Name>
           <Title>freeways- outer zoom level</Title>
           <Abstract>freeways style openstreetmap data</Abstract>
           <ogc:Filter>
@@ -1519,7 +1519,7 @@
       <!-- and fill for major roads at zoom level 8 -->
       <FeatureTypeStyle>
         <Rule>
-          <Name>bikemap:planet_osm_line</Name>
+          <Name>topp:planet_osm_line</Name>
           <Title>freeways- outer zoom level</Title>
           <Abstract>freeways style openstreetmap data</Abstract>
           <ogc:Filter>
@@ -1582,7 +1582,7 @@
 	-->
       <FeatureTypeStyle>
         <Rule>
-          <Name>bikemap:planet_osm_line</Name>
+          <Name>topp:planet_osm_line</Name>
           <Title>freeways- outer zoom level</Title>
           <Abstract>freeways style openstreetmap data</Abstract>
           <ogc:Filter>
@@ -1610,7 +1610,7 @@
       </FeatureTypeStyle>
       <FeatureTypeStyle>
         <Rule>
-          <Name>bikemap:planet_osm_line</Name>
+          <Name>topp:planet_osm_line</Name>
           <Title>freeways- outer zoom level</Title>
           <Abstract>freeways style openstreetmap data</Abstract>
           <ogc:Filter>
@@ -1640,7 +1640,7 @@
       <!--start of zoom level A -->
       <FeatureTypeStyle>
         <Rule>
-          <Name>bikemap:planet_osm_line</Name>
+          <Name>topp:planet_osm_line</Name>
           <Title>freeways- outer zoom level</Title>
           <Abstract>freeways style openstreetmap data</Abstract>
           <ogc:Filter>
@@ -1668,7 +1668,7 @@
       </FeatureTypeStyle>
       <FeatureTypeStyle>
         <Rule>
-          <Name>bikemap:planet_osm_line</Name>
+          <Name>topp:planet_osm_line</Name>
           <Title>freeways- outer zoom level</Title>
           <Abstract>freeways style openstreetmap data</Abstract>
           <ogc:Filter>
@@ -1698,7 +1698,7 @@
       <!-- start of zoom level B -->
       <FeatureTypeStyle>
         <Rule>
-          <Name>bikemap:planet_osm_line</Name>
+          <Name>topp:planet_osm_line</Name>
           <Title>freeways- outer zoom level</Title>
           <Abstract>freeways style openstreetmap data</Abstract>
           <ogc:Filter>
