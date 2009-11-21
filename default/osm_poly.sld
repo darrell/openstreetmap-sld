@@ -131,6 +131,22 @@
                 <ogc:Literal>bay</ogc:Literal>
               </ogc:PropertyIsEqualTo>
               <ogc:PropertyIsEqualTo>
+                <ogc:PropertyName>waterway</ogc:PropertyName>
+                <ogc:Literal>river</ogc:Literal>
+              </ogc:PropertyIsEqualTo>
+              <ogc:PropertyIsEqualTo>
+                <ogc:PropertyName>waterway</ogc:PropertyName>
+                <ogc:Literal>pond</ogc:Literal>
+              </ogc:PropertyIsEqualTo>
+              <ogc:PropertyIsEqualTo>
+                <ogc:PropertyName>waterway</ogc:PropertyName>
+                <ogc:Literal>stream</ogc:Literal>
+              </ogc:PropertyIsEqualTo>
+              <ogc:PropertyIsEqualTo>
+                <ogc:PropertyName>waterway</ogc:PropertyName>
+                <ogc:Literal>riverbank</ogc:Literal>
+              </ogc:PropertyIsEqualTo>
+              <ogc:PropertyIsEqualTo>
                 <ogc:PropertyName>natural</ogc:PropertyName>
                 <ogc:Literal>water</ogc:Literal>
               </ogc:PropertyIsEqualTo>
