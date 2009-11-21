@@ -144,6 +144,10 @@
               </ogc:PropertyIsEqualTo>
               <ogc:PropertyIsEqualTo>
                 <ogc:PropertyName>waterway</ogc:PropertyName>
+                <ogc:Literal>river_bank</ogc:Literal>
+              </ogc:PropertyIsEqualTo>
+              <ogc:PropertyIsEqualTo>
+                <ogc:PropertyName>waterway</ogc:PropertyName>
                 <ogc:Literal>riverbank</ogc:Literal>
               </ogc:PropertyIsEqualTo>
               <ogc:PropertyIsEqualTo>
